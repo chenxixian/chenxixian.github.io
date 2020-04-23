@@ -1,0 +1,6 @@
+cvm.chenxixian.cn:8443 
+tls 3786972_cvm.chenxixian.cn.pem 3786972_cvm.chenxixian.cn.key
+gzip
+root . 
+index index.html,index.htm
+log deploy.log
